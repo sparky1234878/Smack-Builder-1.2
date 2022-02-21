@@ -50,7 +50,7 @@ Script Informations:
 - For the operation of the VideoCrash Maker, please refer to [this page](https://github.com/AstraaDev/Discord-VideoCrashMaker).
 
 ## Example
-![home.png](https://cdn.discordapp.com/attachments/945120882513301545/945161766604775454/unknown.png)
+![home.png](https://cdn.discordapp.com/attachments/945120882513301545/945162573387554856/unknown.png)
 
 ## Errors/Fixes
 
