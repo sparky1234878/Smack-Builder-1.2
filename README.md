@@ -34,8 +34,6 @@ AFTER LOGGING "SMACK" SHOULD BE ADDED TO YOUR FOLDER
 
 HAVE FUN!
 
-Username: Smack
-Password: Smack123
 
 ```
 
