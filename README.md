@@ -1,10 +1,9 @@
 ## Disclaimer
 
-/-------------------------------------------------------------------------------\
-\ Some anti-malware programs will block Smack because it thinks it is malicious./
-/ This is the usual nature of a lot of python files.                            \
-\ You will need to find and disable the firewall blocking the software.         /
-/-------------------------------------------------------------------------------\
+
+Some anti-malware programs will block Smack because it thinks it is malicious.
+This is the usual nature of a lot of python files.                           
+You will need to find and disable the firewall blocking the software.         
 
 |-Smack was made for Educational purposes-|
 
@@ -14,7 +13,7 @@
 |---------------------------------------------------------------------------------------------------------------------------|
 
 ## Features
-
+- [✔] - [Spoofer] - Spoofs your file so it bypasses windows anti virus
 - [✔] - [RAT Tool] - Create a RAT file. Once the victim runs it, you can control his PC through a BOT Discord.
 - [✔] - [Raid Tool]() - Allows to raid a discord server with several accounts (requires an account generator).
 - [✔] - [Server Nuker] - Easily nuke a discord server with a BOT Discord.
