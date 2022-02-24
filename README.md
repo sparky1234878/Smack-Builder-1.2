@@ -9,7 +9,7 @@ You will need to find and disable the firewall blocking the software.
 
 |---------------------------------------------------------------------------------------------------------------------------|
 | This project was created only for good purposes and personal use.                                                         |
-| By using AstraaHome, you agree that you hold responsibility and accountability of any consequences caused by your actions.|
+| By using Smack, you agree that you hold responsibility and accountability of any consequences caused by your actions.|
 |---------------------------------------------------------------------------------------------------------------------------|
 
 ## Features
